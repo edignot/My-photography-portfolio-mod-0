@@ -1,6 +1,6 @@
 # Edita Ignit Photography Portfolio 
 
-## 
+## [DEPLOYED](https://laughing-swartz-53d587.netlify.app/)
 
 ### Abstract:
 This was my first ever project built with HTML5 and CSS while learning Web Development basics.
