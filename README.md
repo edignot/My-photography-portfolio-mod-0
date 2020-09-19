@@ -8,7 +8,8 @@ This was my first ever project built with HTML5 and CSS in couple of days while 
 
 ### Demo:
 
-![image](/photographyportfolio.jpg)
+![image](/photo1.jpg)
+![image](/photo2.jpg)
 
 ### Technologies Used:
 
