@@ -1,6 +1,6 @@
 # Edita Ignot Photography Portfolio
 
-## [DEPLOYED](https://laughing-swartz-53d587.netlify.app/)
+## [DEPLOYED](editaignotphotography.netlify.app)
 
 ### Abstract:
 
