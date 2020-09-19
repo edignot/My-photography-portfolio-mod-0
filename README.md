@@ -1,4 +1,4 @@
-# Edita Ignit Photography Portfolio 
+# Edita Ignot Photography Portfolio 
 
 ## [DEPLOYED](https://laughing-swartz-53d587.netlify.app/)
 
