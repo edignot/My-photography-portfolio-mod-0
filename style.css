@@ -47,7 +47,7 @@ h2 {
 }
 
 h2:after {
-  content: " ";
+  content: ' ';
   display: block;
   height: 2px;
   background-color: #fff;
@@ -59,7 +59,11 @@ h2:after {
 /* HEADER */
 /* --------------------------------------------------- */
 header {
-  background-image: linear-gradient(rgba(22, 22, 22, 0.8), rgba(32, 32, 32, 0.3)), url(img/12.jpg);
+  background-image: linear-gradient(
+      rgba(22, 22, 22, 0.8),
+      rgba(32, 32, 32, 0.3)
+    ),
+    url(img/12.jpg);
   height: 100vh;
   background-attachment: fixed;
   background-position: center;
@@ -129,7 +133,7 @@ button {
 .main-nav li a:hover,
 .main-nav li a:active {
   border: 10px solid #e9bb2f;
-  transition: border-left 5s, border-top 7s, border-right 9s, border-bottom 11s
+  transition: border-left 5s, border-top 7s, border-right 9s, border-bottom 11s;
 }
 
 /* --------------------------------------------------- */
@@ -142,6 +146,7 @@ button {
 .about p {
   width: 70%;
   margin: auto;
+  text-align: center;
 }
 
 /* --------------------------------------------------- */
@@ -223,7 +228,7 @@ textarea {
   padding-top: 5px;
 }
 
-input[type=submit] {
+input[type='submit'] {
   width: 30%;
   color: #fff;
   background-color: #e9bb2f;
@@ -232,12 +237,15 @@ input[type=submit] {
   cursor: pointer;
 }
 
-
 /* --------------------------------------------------- */
 /* FOOTER */
 /* --------------------------------------------------- */
 footer {
-  background-image: linear-gradient(rgba(32, 32, 32, 0.3), rgba(32, 32, 32, 0.96)), url(img/12.jpg);
+  background-image: linear-gradient(
+      rgba(32, 32, 32, 0.3),
+      rgba(32, 32, 32, 0.96)
+    ),
+    url(img/12.jpg);
   background-attachment: fixed;
   background-position: center;
   background-size: cover;
@@ -245,7 +253,7 @@ footer {
 
   display: grid;
   grid-template: 1fr 1fr / 1fr 1fr;
-  grid-template-areas: " n s " " c c ";
+  grid-template-areas: ' n s ' ' c c ';
 }
 
 footer p {
