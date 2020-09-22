@@ -1,6 +1,6 @@
 # Edita Ignot Photography Portfolio
 
-## [DEPLOYED](https://editaignotphotography.netlify.app/)
+## https://editaignotphotography.netlify.app/
 
 ![image](/photo1.jpg)
 ![image](/photo2.jpg)
